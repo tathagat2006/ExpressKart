@@ -1,0 +1,56 @@
+body {
+    background-color: lightgrey;
+}
+
+#top-div {
+    box-shadow: 0px 0px 1px 1px;
+}
+
+#dropdownMenuLink {
+    background-color: transparent;
+    border: 0px;
+}
+
+#dropdownMenuLink:hover {
+    color: orange;
+}
+
+a {
+    color: darkblue;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+#slide1 {
+    /*position: relative;*/
+    /*display: flex;*/
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+#slide2 {
+    /*position: relative;*/
+    /*display: flex;*/
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+#slide3 {
+    /*position: relative;*/
+    /*display: flex;*/
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+#slide4 {
+    /*position: relative;*/
+    /*display: flex;*/
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}

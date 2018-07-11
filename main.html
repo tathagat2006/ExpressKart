@@ -4,9 +4,20 @@
     <meta charset="UTF-8">
     <title>Manufacturers, Suppliers, Exporters &amp; Importers from the world&#39;s largest online marketplace</title>
     <link href="assets/images/logo.png" rel="icon">
+
     <!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">-->
-    <link href="assets/stylesheets/bootstrap-4.1.1" rel="stylesheet">
-    <link href="assets/stylesheets/bootstrap.min.css">
+    <!--<link href="assets/stylesheets/bootstrap-4.1.1/dist/css/bootstrap.min.css" rel="stylesheet">-->
+    <!--<script src="assets/stylesheets/bootstrap-4.1.1/dist/js/bootstrap.min.js"></script>-->
+    <!--<link href="assets/stylesheets/bootstrap.css">-->
+
+    <!--<link href="./assets/stylesheets/bootstrap-4.1.1/dist/css" rel="stylesheet">-->
+
+    <link href="bootstrap.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+    <!--<script src="bootstrap.js"></script>-->
+    <!--<script src="assets/stylesheets/bootstrap-4.1.1/dist/js"></script>-->
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
     <!--<link href="/Users/tathagatthapliyal/Desktop/Projects/ExpressKart/assets/stylesheets/docs.min.css" rel="stylesheet">-->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
@@ -17,19 +28,131 @@
 <body>
 
 <div style=" margin: 0px; padding: 0px;">
-    <div style="width: 100%; height: 150px; background: grey;">
-    <div class="dropdown">
-        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Dropdown
-        </button>
-        <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
-            <button class="dropdown-item" type="button">Action</button>
-            <button class="dropdown-item" type="button">Another action</button>
-            <button class="dropdown-item" type="button">Something else here</button>
+    <div style="width: 100%; height: 150px; background: white;" id="top-div">
+        <span id="home-logo"><img src="assets/images/logo.png" style="width: 60px; height: auto; margin: 10px;"></span>
+        <div class="dropdown" >
+            <button class="btn btn-warning dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Sourcing Solutions
+            </button>
+
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                <a class="dropdown-item" href="#"><b>Search For</b></a>
+                <a class="dropdown-item" href="#">Top Selected Suppliers</a>
+                <a class="dropdown-item" href="#">Suppliers By Regions</a>
+                <a class="dropdown-item" href="#">Online Retailer Markey</a>
+            </div>
+        </div>
+
+        <div class="dropdown" >
+            <button class="btn btn-warning dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Services & Memberships
+            </button>
+
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                <a class="dropdown-item" href="#"><b>Membership Services</b></a>
+                <a class="dropdown-item" href="#">Buyer Business Identity</a>
+                <a class="dropdown-item" href="#">Suppliers Membership</a><br>
+
+                <a class="dropdown-item" href="#"><b>Value-Added Services</b></a>
+                <a class="dropdown-item" href="#">Urgent Request</a>
+                <a class="dropdown-item" href="#">Extra Quotes</a>
+
+
+            </div>
+
+            <div class="dropdown" >
+                <button class="btn btn-warning dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Help & Community
+                </button>
+
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                    <a class="dropdown-item" href="#"><b>Help Centers</b></a>
+                    <a class="dropdown-item" href="#">For Buyers</a>
+                    <a class="dropdown-item" href="#">For Suppliers</a>
+                    <a class="dropdown-item" href="#">For Suppliers</a>
+                    <a class="dropdown-item" href="#">For New Users</a>
+                    <a class="dropdown-item" href="#">Submit A Dispute</a>
+                    <a class="dropdown-item" href="#">Report Abuse</a><br>
+
+                    <a class="dropdown-item" href="#"><b>Community</b></a>
+                    <a class="dropdown-item" href="#">Insights</a>
+                    <a class="dropdown-item" href="#">Discussion Forum</a>
+
+
+                </div>
+
+                <span style="align-content: right;  margin-left: 600px;"><a href="#" ><b>Get The App</b></a></span>
+
+                <form class="form-inline my-2 my-lg-0" style="position: fixed; margin-left: 200px;">
+                    <input class="form-control mr-sm-1" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-warning my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
+                </form>
+
+
+        </div>
+    </div>
+    </div><br>
+
+    <div style="background-color: white; margin-top: 0px; margin-left:20px; margin-right:20px; height: auto;display: flex;">
+        <div class="col-3" style="display: inline-block;margin-top: 10px;">
+            <span><i class="fas fa-shopping-basket" style="font-size: 20px; opacity: 0.6;"></i><b style="font-size: 15px;">&nbsp;&nbsp;MY MARKETS</b></span>
+            <ul class="list-group" style="margin-top: 5px;margin-bottom: 5px;">
+                <li class="list-group-item"><a href="#">Consumer Electronics</a></li>
+                <li class="list-group-item"><a href="#">Apparel</a></li>
+                <li class="list-group-item"><a href="#">Machinery</a></li>
+                <li class="list-group-item"><a href="#">Automobiles & Motorcycles</a></li>
+                <li class="list-group-item"><a href="#">Home & Gardens</a></li>
+                <li class="list-group-item"><a href="#">Beauty & Personal Care</a></li>
+                <li class="list-group-item"><a href="#">Health & Medical</a></li>
+                <li class="list-group-item"><a href="#">Sports & Entertainment</a></li>
+                <li class="list-group-item"><a href="#">All Categories</a><i class="fas fa-angle-right" style="margin-left: 160px;"></i></li>
+            </ul>
+        </div>
+
+        <div id="carouselExampleIndicators" class="carousel slide col-6" data-ride="carousel" style="margin-top: 10px;">
+            <!--<ol class="carousel-indicators">-->
+                <!--<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>-->
+                <!--<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>-->
+                <!--<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>-->
+                <!--<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>-->
+            <!--</ol>-->
+            <div class="carousel-inner" style="height: 100%; margin-top: 10px;margin-bottom: 10px;">
+                <div class="carousel-item active" id="slide1">
+                    <img class="d-block w-100" src="https://img.alicdn.com/tfs/TB1a2yDCKuSBuNjy1XcXXcYjFXa-990-400.png" alt="First slide" style="height: 94%;">
+                </div>
+                <div class="carousel-item" id="slide2">
+                    <img class="d-block w-100" src="https://img.alicdn.com/tfs/TB17j__CCtYBeNjSspkXXbU8VXa-990-400.jpg" alt="Second slide" style="height: 94%;">
+                </div>
+                <div class="carousel-item" id="slide3">
+                    <img class="d-block w-100" src="https://img.alicdn.com/tfs/TB1jr6FDbSYBuNjSspiXXXNzpXa-990-400.jpg" alt="Third slide" style="height: 94%;">
+                </div>
+                <div class="carousel-item" id="slide4">
+                    <img class="d-block w-100" src="https://img.alicdn.com/tfs/TB1U6GXCDtYBeNjy1XdXXXXyVXa-990-300.png" alt="Third slide" style="height: 94%;">
+                </div>
+
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+
+        <div class="card col-3" style="margin-top: 10px; margin-bottom: 10px;">
+            <img class="card-img-top" src="card-slider-right.jpg">
+            <div class="card-body">
+                <h5 class="card-title" style="color: darkblue">Laura Ashley Bathroom Collection</h5>
+                <p class="card-text">Exclusive OFFER on all Ashley Bathroom Fittings & Accessories.Hurry!!</p>
+                <p class="card-text"><small class="text-muted">Offer Valid Till Stock Lasts! *(T & C Apply). </small></p>
+            </div>
         </div>
 
     </div>
-    </div>
+
+
 </div>
 
 </body>
