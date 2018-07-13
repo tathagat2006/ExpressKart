@@ -18,8 +18,9 @@ body {
 }
 
 a {
-    color: darkblue;
+    /*color: darkblue;*/
     /*color: #FF7519;*/
+    color:#333;
 }
 
 a:hover {
