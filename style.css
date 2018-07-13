@@ -1,5 +1,7 @@
 body {
     background-color: lightgrey;
+    margin: 0px;
+    padding: 0px;
 }
 
 #top-div {
@@ -149,4 +151,8 @@ ul li {
     border-color: #FF7519;
     border-radius:5px;
     display: inline;
+}
+
+.footer {
+    font-size: 15px;
 }
