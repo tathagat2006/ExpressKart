@@ -17,6 +17,7 @@ body {
 
 a {
     color: darkblue;
+    /*color: #FF7519;*/
 }
 
 a:hover {
@@ -101,6 +102,46 @@ ul li {
 }
 
 #rfq-heading {
+    font-size: 20px;
+    padding: 5px;
+    background: #FF7519;
+    color: #FFF;
+    border-color: #FF7519;
+    border-radius:5px;
+    display: inline;
+}
+
+#recom-heading {
+    font-size: 20px;
+    padding: 5px;
+    background: #FF7519;
+    color: #FFF;
+    border-color: #FF7519;
+    border-radius:5px;
+    display: inline;
+}
+
+#home-heading {
+    font-size: 20px;
+    padding: 5px;
+    background: #FF7519;
+    color: #FFF;
+    border-color: #FF7519;
+    border-radius:5px;
+    display: inline;
+}
+
+#elec-heading {
+    font-size: 20px;
+    padding: 5px;
+    background: #FF7519;
+    color: #FFF;
+    border-color: #FF7519;
+    border-radius:5px;
+    display: inline;
+}
+
+#machine-heading {
     font-size: 20px;
     padding: 5px;
     background: #FF7519;
