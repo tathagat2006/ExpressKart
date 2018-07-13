@@ -180,3 +180,97 @@ ul li {
 #myBtn:hover {
     background-color: #555;
 }
+
+#img-1 {
+    position: relative;
+}
+
+#img-1 #img1 {
+    transition: transform 2s;
+}
+
+#img-1:hover #img1 {
+    transform: scale(1.2);
+    /*transition-duration: 2s;*/
+}
+
+#flex-dir:hover > img {
+    transform: scale(1.2);
+    /*transition-duration: 2s;*/
+}
+
+#flex-dir img {
+    transition: transform 2s;
+}
+
+#cam-img:hover > img {
+    transform: scale(1.2);
+    /*transition-duration: 2s;*/
+}
+
+#cam-img > img {
+    transition: transform 2s;
+}
+
+#pet:hover > img {
+    transform: scale(1.2);
+    /*transition-duration: 2s;*/
+}
+
+#pet > img {
+    transition: transform 2s;
+}
+
+#home:hover > img {
+    transform: scale(1.2);
+    /*transition-duration: 2s;*/
+}
+
+#home > img {
+    transition: transform 2s;
+}
+
+#machine:hover > img {
+    transform: scale(1.2);
+    /*transition-duration: 2s;*/
+}
+
+#machine > img {
+    transition: transform 2s;
+}
+
+#vaccum:hover > img {
+    transform: scale(1.2);
+    /*transition-duration: 2s;*/
+}
+
+#vaccum > img {
+    transition: transform 2s;
+}
+
+#printer:hover > img {
+    transform: scale(1.2);
+    /*transition-duration: 2s;*/
+}
+
+#printer > img {
+    transition: transform 2s;
+}
+
+#rfq-img:hover > a {
+    transform: scale(1.2);
+    /*transition-duration: 2s;*/
+}
+
+#rfq-img > a {
+    transition: transform 2s;
+}
+
+.recom:hover > img {
+    transform: scale(1.2);
+    /*transition-duration: 2s;*/
+}
+
+.recom > img {
+    transition: transform 2s;
+}
