@@ -77,3 +77,35 @@ a:hover {
 ul li {
     display: inline;
 }
+
+#inputCity:focus {
+    /*border-color: #ffc107;*/
+}
+
+#btn-rfq {
+    background: #FF7519;
+    color: #FFF;
+    border-color: #FF7519;
+}
+
+#btn-search {
+    background: #FF7519;
+    color: #FFF;
+    border-color: #FF7519;
+}
+
+#prg-bar {
+    background: #FF7519;
+    color: #FFF;
+    border-color: #FF7519;
+}
+
+#rfq-heading {
+    font-size: 20px;
+    padding: 5px;
+    background: #FF7519;
+    color: #FFF;
+    border-color: #FF7519;
+    border-radius:5px;
+    display: inline;
+}
