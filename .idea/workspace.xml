@@ -3,33 +3,37 @@
   <component name="ChangeListManager">
     <list default="true" id="ed067c0f-05d2-4e63-87d1-ec3b4b1eb56e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_store.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bike.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cam.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cam.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/card-slider-right.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/earpods.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forklift.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google_play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/headphones.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hookah.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ladies.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/machinery.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/printer.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sipper.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slide4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/smartwatch.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speakers.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tide.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tv.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vacumm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/app_store.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/app_store.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/bike.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/bike.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cam.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/cam.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cam.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/cam.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/card-slider-right.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/card-slider-right.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/earpods.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/earpods.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/forklift.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/forklift.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/google_play.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/google_play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/headphones.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/headphones.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/home.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/home.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/home.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/home2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/home2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/hookah.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/hookah.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/ladies.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/ladies.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/machinery.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/machinery.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/mop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/mop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/pet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/printer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/printer.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/sipper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/sipper.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/slide4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/slide4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/smartwatch.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/smartwatch.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/speakers.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/tablet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/tide.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/tide.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/tv.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/tv.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/vacumm.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/vacumm.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -65,36 +69,44 @@
     <session id="1775338621">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="5" />
-          <entry key="html" value="1" />
-          <entry key="js" value="1" />
+          <entry key="css" value="2" />
+          <entry key="gitignore" value="6" />
+          <entry key="html" value="3" />
+          <entry key="jpeg" value="1" />
+          <entry key="jpg" value="7" />
+          <entry key="js" value="2" />
           <entry key="json" value="1" />
+          <entry key="png" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="3" />
+          <entry key="Image" value="10" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="1" />
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="JavaScript" value="2" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="17" />
-          <entry key="html" value="92" />
+          <entry key="html" value="115" />
           <entry key="js" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="92" />
+          <entry key="HTML" value="115" />
           <entry key="JavaScript" value="47" />
           <entry key="PLAIN_TEXT" value="17" />
         </counts>
@@ -106,8 +118,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="861" column="235" selection-start-line="861" selection-start-column="235" selection-end-line="861" selection-end-column="235" />
+            <state relative-caret-position="210">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -150,6 +162,7 @@
         <option value="$PROJECT_DIR$/main.html" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -179,6 +192,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,11 +200,15 @@
               <item name="tathagat.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExpressKart" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="tathagat.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExpressKart" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,11 +222,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/css" />
+      <recent name="$PROJECT_DIR$/public/js" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/assets/stylesheets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/css" />
+      <recent name="$PROJECT_DIR$/public/assets" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -245,12 +267,13 @@
       <workItem from="1533927008271" duration="1764000" />
       <workItem from="1534096939115" duration="105000" />
       <workItem from="1534097102563" duration="601000" />
-      <workItem from="1534101840029" duration="2649000" />
+      <workItem from="1534101840029" duration="3006000" />
+      <workItem from="1534180512186" duration="426000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57519000" />
+    <option name="totallyTimeSpent" value="58302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -309,13 +332,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="5030" column="1" selection-start-line="5030" selection-start-column="1" selection-end-line="5030" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4095">
@@ -323,16 +339,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -340,10 +351,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/images/home.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/images/tide.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/images/home.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/images/cam.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/images/bike.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/images/pet.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/images/mop.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/images/cam.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/images/tv.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="5030" column="1" selection-start-line="5030" selection-start-column="1" selection-end-line="5030" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="861" column="235" selection-start-line="861" selection-start-column="235" selection-end-line="861" selection-end-column="235" />
+        <state relative-caret-position="210">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
         </state>
       </provider>
     </entry>
