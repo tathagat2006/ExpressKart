@@ -2,38 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed067c0f-05d2-4e63-87d1-ec3b4b1eb56e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/routes/private.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/public.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/app_store.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/app_store.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bike.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/bike.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cam.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/cam.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cam.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/cam.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/card-slider-right.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/card-slider-right.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/earpods.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/earpods.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/forklift.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/forklift.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/google_play.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/google_play.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/headphones.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/headphones.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/home.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/home.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/home.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/home.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/home2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/home2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/hookah.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/hookah.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ladies.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/ladies.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/machinery.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/machinery.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/mop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/pet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/pet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/printer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/printer.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sipper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/sipper.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/slide4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/slide4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/smartwatch.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/smartwatch.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/speakers.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/tide.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/tide.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/tv.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/tv.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/vacumm.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/vacumm.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -69,20 +42,21 @@
     <session id="1775338621">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="2" />
-          <entry key="gitignore" value="6" />
+          <entry key="gitignore" value="7" />
           <entry key="html" value="3" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="7" />
-          <entry key="js" value="2" />
+          <entry key="js" value="5" />
           <entry key="json" value="1" />
           <entry key="png" value="2" />
         </counts>
@@ -93,33 +67,69 @@
           <entry key="HTML" value="3" />
           <entry key="Image" value="10" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="2" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="JavaScript" value="5" />
+          <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="17" />
+          <entry key="gitignore" value="28" />
           <entry key="html" value="115" />
-          <entry key="js" value="47" />
+          <entry key="js" value="392" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="115" />
-          <entry key="JavaScript" value="47" />
-          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="JavaScript" value="392" />
+          <entry key="PLAIN_TEXT" value="28" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/public.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/private.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -160,10 +170,12 @@
         <option value="$PROJECT_DIR$/script.js" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/main.html" />
-        <option value="$PROJECT_DIR$/server.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/routes/public.js" />
+        <option value="$PROJECT_DIR$/routes/private.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -178,7 +190,6 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/assets/stylesheets/bootstrap-4.1.1/package.json" />
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
@@ -186,13 +197,14 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,10 +217,16 @@
               <item name="ExpressKart" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="tathagat.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExpressKart" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,6 +236,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
   </component>
   <component name="RecentsManager">
@@ -246,6 +265,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -268,12 +297,13 @@
       <workItem from="1534096939115" duration="105000" />
       <workItem from="1534097102563" duration="601000" />
       <workItem from="1534101840029" duration="3006000" />
-      <workItem from="1534180512186" duration="426000" />
+      <workItem from="1534180512186" duration="683000" />
+      <workItem from="1534225694372" duration="611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58302000" />
+    <option name="totallyTimeSpent" value="59170000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -288,7 +318,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -310,47 +340,16 @@
     <entry file="file://$PROJECT_DIR$/assets/stylesheets/bootstrap.min.css" />
     <entry file="file://$PROJECT_DIR$/assets/stylesheets/bootstrap.js" />
     <entry file="file://$PROJECT_DIR$/assets/stylesheets/bootstrap.css" />
-    <entry file="file://$PROJECT_DIR$/assets/stylesheets/bootstrap-4.1.1/js/dist/dropdown.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/stylesheets/bootstrap-4.1.1/js/dist/dropdown.js" />
     <entry file="file://$PROJECT_DIR$/dropdown.js" />
     <entry file="file://$PROJECT_DIR$/bootstrap.js" />
-    <entry file="file://$PROJECT_DIR$/assets/stylesheets/bootstrap-4.1.1/dist/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="3817" column="56" selection-start-line="3817" selection-start-column="48" selection-end-line="3817" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4095">
-          <caret line="273" column="6" selection-start-line="273" selection-start-column="6" selection-end-line="273" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js" />
+    <entry file="file://$PROJECT_DIR$/assets/stylesheets/bootstrap-4.1.1/dist/js/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/script.js" />
+    <entry file="file://$PROJECT_DIR$/style.css" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/script.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -398,6 +397,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/public.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/private.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
