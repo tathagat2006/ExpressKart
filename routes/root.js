@@ -5,7 +5,7 @@ route.get('/login' ,(req,res) => {
 })
 route.get('/signup' ,(req,res) => {
     res.render('signup')
-}))
+})
 route.post('/login')
 route.post('/signup')
 
